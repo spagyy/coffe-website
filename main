@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="brand">Logo</div>
+    <ul>
+      <li><a href="">Home</a></li>
+      <li><a href="">About us</a></li>
+      <li><a href="">Menu</a></li>
+      <li><a href="">Photos</a></li>
+      <li><a href="">Contact</a></li>
+      <button class="singup">Sing Up</button>
+    </ul>
+  </nav>
+</body>
+</html>
