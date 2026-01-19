@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kavárna u Hradu Houska</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="boder">
+<header>
+<nav class="navbar">
+  <img src="/organiicon.jpg" alt="" class="icon">
+  <ul>
+    <li><a href="main.html">Domů</a></li>
+    <li><a href="contact.html">Kontakt</a></li>
+    <li><a href="doba.html">Otevírací doba</a></li>
+    <li><a href="photos.html">Fotky</a></li>
+  </ul>
+</nav>
+</header>
+<main>
+<br>
+<h1 class="chapetr">Chcete se s námi spojit?</h1>
+<br>
+<p class="paragrapher">Prosím vyplňte kontaktní formulář!</p>
+<br>
+<form class="former" action="/submit" method="post">
+  <label for="fname">Jméno</label>
+  <input type="text" id="fname" name="firstname" placeholder="Vaše jméno...">
+
+  <label for="lname">Přímení</label>
+  <input type="text" id="lname" name="lastname" placeholder="Vaše přímení...">
+
+  <label for="gendre">Vaše pohlaví</label>
+  <select id="gendre" name="gendre">
+    <option value="man">Muž</option>
+    <option value="women">Žena</option>
+    <option value="helicopeter">Útočná helikoptéra</option>
+  </select>
+  <input type="submit" value="Submit">
+</form>
+</main>
+<br>
+<footer>
+  <p>Kavárna U Hradu Houska</p>
+  <p>Adresa: Houska 12, 471 63 Houska</p>
+  <p>Telefon: +420 777 888 999</p>
+  <p>© 2026 Všechna práva vyhrazena</p>
+</footer>
+</body>
+</html>
