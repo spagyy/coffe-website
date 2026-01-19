@@ -2,20 +2,46 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
-  <link rel="stylesheet" href="css/style.css">
+  <title>Kavárna u Hradu Houska</title>
+  <link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
-  <nav class="navbar">
-    <div class="brand">Logo</div>
-    <ul>
-      <li><a href="">Home</a></li>
-      <li><a href="">About us</a></li>
-      <li><a href="">Menu</a></li>
-      <li><a href="">Photos</a></li>
-      <li><a href="">Contact</a></li>
-      <button class="singup">Sing Up</button>
-    </ul>
-  </nav>
+<body class="boder">
+<header>
+<nav class="navbar">
+  <img src="/organiicon.jpg" alt="" class="icon">
+  <ul>
+    <li><a href="main.html">Domů</a></li>
+    <li><a href="contact.html">Kontakt</a></li>
+    <li><a href="doba.html">Otevírací doba</a></li>
+    <li><a href="photos.html">Fotky</a></li>
+  </ul>
+</nav>
+</header>
+<main><
+<br>
+<h1 class="chapetr">Vítejte na stránkách naší kavárny</h1>
+<br>
+<p class="paragrapher">Vítejte v Kavárně <b> U Hradu Houska</b>. Najdete u nás výbornou kávu, dortíky a příjemnou atmosféu.</p>
+  <section class="hero">
+    <div class="hero-text">
+      <blockquote>
+        „Jednoduchost není cíl. Je to výsledek správných rozhodnutí.“
+      </blockquote>
+      <span class="author">— Spagyy</span>
+    </div>
+
+    <div class="hero-image">
+      <img src="https://www.laznemikulcice.cz/images/big/text/0/11.jpg?ver=3" alt="">
+    </div>
+  </section>
+</main>
+<br>
+<br>
+<footer>
+  <p>Kavárna U Hradu Houska</p>
+  <p>Adresa: Houska 12, 471 63 Houska</p>
+  <p>Telefon: +420 777 888 999</p>
+  <p>© 2026 Všechna práva vyhrazena</p>
+</footer>
 </body>
 </html>
