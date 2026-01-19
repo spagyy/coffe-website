@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kavárna u Hradu Houska</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="boder">
+<header>
+<nav class="navbar">
+  <img src="/organiicon.jpg" alt="" class="icon">
+  <ul>
+    <li><a href="main.html">Domů</a></li>
+    <li><a href="contact.html">Kontakt</a></li>
+    <li><a href="doba.html">Otevírací doba</a></li>
+    <li><a href="photos.html">Fotky</a></li>
+  </ul>
+</nav>
+<br>
+</header>
+<main>
+<h1 class="chapetr">PHOTOS</h1>
+<br>
+<p class="paragrapher">Zde najdete fotky naší příjmé kavárny.</p>
+<div class="gallery">
+  <div class="card">
+    <img src="https://budapestbistro.at/wp-content/uploads/2021/10/Budapest-Bistro-Wien-21-1536x1536.jpg" alt="">
+  </div>
+  <div class="card">
+    <img src="https://imgrabo.com/pics/guide/900x600/20210201140043_41093.jpeg" alt="">
+  </div>
+  <div class="card">
+    <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=654x10000:format=jpg/path/sdf46c9ccd4fd1d57/image/ida76f69fd2bac328/version/1608581145/image.jpg" alt="">
+  </div>
+</div>
+</main>
+<br>
+<footer>
+  <p>Kavárna U Hradu Houska</p>
+  <p>Adresa: Houska 12, 471 63 Houska</p>
+  <p>Telefon: +420 777 888 999</p>
+  <p>© 2026 Všechna práva vyhrazena</p>
+</footer>
+</body>
+</html>
